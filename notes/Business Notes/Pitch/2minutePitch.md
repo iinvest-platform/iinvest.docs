@@ -1,0 +1,6 @@
+## iinvest 2 minute pitch
+
+iinvest is a technological platform founded on the belief that a future where investing is simplified is fundamentally more exciting than one where it isn’t. We are attempting to provide a consolidated socially interactive financial platform to serve as a one stop shop for one’s financial needs. We recognize that the most robust solution to the modern investment problem is a sleek distributed network that provides users with attractive learning resources, up to date and credible market news, simplified market summaries, a focalized financial research environment, and the ability to leverage your network as you make financial decisions. As the saying “think outside the box” goes, we decided to construct this unorthodox solution in hopes of disentangling the various complexities associated with finance, hence, simplifying the time-intensive effort attributed to consuming compacted market data on the behalf of our users, and creating a future comprised of more financially adept individuals.
+* Strike up emotion
+* Talk about statistics
+* Statitistics as an introduction 
